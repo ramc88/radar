@@ -4,6 +4,9 @@
   "description": "",
   "main": "app.js",
   "type": "module",
+  "engines": {
+    "node": "16"
+  },
   "scripts": {
     "start": "node services/server",
     "test": "jest"
